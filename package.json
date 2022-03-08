@@ -1,0 +1,20 @@
+{
+  "name": "error-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-error.js",
+  "type": "module",
+  "scripts": {
+    "gs": "node graceful-shutdown/index.js",
+    "cec": "node custom-error-classes/index.js",
+    "cec:req": "sh custom-error-classes/request.sh",
+    "np": "node notification-pattern/src/index.js",
+    "np:req": "sh notification-pattern/src/request.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.0"
+  }
+}
