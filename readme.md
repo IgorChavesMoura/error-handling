@@ -1,6 +1,6 @@
 # Node error handling
 
-## Some for learning error handling concepts on Node.js
+## Some code for learning error handling concepts on Node.js
 
 ### Concepts:
 
